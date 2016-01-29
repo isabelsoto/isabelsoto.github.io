@@ -1,2 +1,2 @@
-# isabelsoto.github.io
-### Made by Isabel and Charles
+## isabelsoto.github.io
+### By Isabel and Charles
