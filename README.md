@@ -1,2 +1,2 @@
-## isabelsoto.github.io
+## www.isabelsoto.co
 ### By Isabel and Charles
